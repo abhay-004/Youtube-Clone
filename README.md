@@ -1,6 +1,9 @@
 🎥 YouTube Clone
 A fully functional YouTube clone built with React.js and YouTube Data API v3. This project replicates the core features of YouTube including video browsing, playback, and real-time statistics.
 Show Image Show Image Show Image
+
+
+
 🚀 Features
 
 🎬 Video Playback - Embedded YouTube player with autoplay
